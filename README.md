@@ -15,3 +15,40 @@
 A demo version is automatically deployed for this repositories:
 
 - Deployment for backend part - [https://todo-eshika.herokuapp.com/](https://todo-eshika.herokuapp.com/)
+
+## Technology Stack 
+</br>
+Please get familiar with the components of the project in order to be able to contribute.
+
+### components
+- CSS: Styling web pages, html files
+- Javascript: Primary programing language
+- nodejs: Used in the backend
+- express: To create the calling API
+- ejs: template engine 
+
+
+#### External Service Dependencies
+- MongoDB Atlas: A cloud database used to store user personal data username, passwords and individuals chats
+
+## Requirements
+</br>
+
+- node --version >= 6
+- npm --version >= 3
+
+
+## Local Installation for Backend
+</br>
+
+### Steps
+- `git clone <repository-url>` where `<repository-url>`is the link to the forked repository
+- `cd frontend_ui`
+
+Note : If you want to contribute, first fork the original repository and clone the forked repository into your local machine followed by `cd` into the directory
+
+```
+git clone https://github.com/USERNAME/backend_services
+cd backend_services
+
+```
