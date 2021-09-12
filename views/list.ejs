@@ -1,0 +1,36 @@
+<%- include("header") -%>
+<div class="box1" id="heading">
+       
+    <h1 >TODO'S LIST <img class="img1" src="https://cdn2.iconfinder.com/data/icons/yellow-blue-business-icons-1/1500/note_notebook_interface_writing_notes_notepad_writing_tool_miscellaneous-512.png"></h1>
+    </div>
+    
+    <div class="box">
+        <div class="all-todo">
+    <% newListItems.forEach( (item) => { %>
+     <form action="/delete"  method="POST" class="todo-item">
+
+                <p><%= item.name %></p>
+                 <div class="delete-option">
+                   <input name="checkbox" value = "<%= item._id %>" id="checkbox">
+                    <button type="submit"  ><img src="https://img.icons8.com/material/24/000000/delete--v1.png"/></button>
+                   </div>
+               <br>
+
+
+     
+     </form>
+
+    <% }); %>
+
+    </div>
+    <form class="item" action="/" method="POST">
+     <input type="text" name="n" placeholder="Any Task"><hr>
+     <button id="b" type="submit" >Add Todo</button> 
+   </form>
+   </div>
+    
+   
+ 
+ 
+
+
