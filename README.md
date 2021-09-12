@@ -60,3 +60,8 @@ cd backend_services
 - Install all the dependencies with `npm install`
 - Start the server with `npm start`
 - Visit your API at [http://localhost:3000](http://localhost:3000.) :tada:
+
+## Contributing
+
+> Feel free to **contribute** :fire
+- When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change."# Todo-App " 
