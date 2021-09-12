@@ -52,3 +52,11 @@ git clone https://github.com/USERNAME/backend_services
 cd backend_services
 
 ```
+#### Starting server
+
+```
+cd backend_services
+```
+- Install all the dependencies with `npm install`
+- Start the server with `npm start`
+- Visit your API at [http://localhost:3000](http://localhost:3000.) :tada:
