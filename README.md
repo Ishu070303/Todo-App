@@ -43,7 +43,7 @@ Please get familiar with the components of the project in order to be able to co
 
 ### Steps
 - `git clone <repository-url>` where `<repository-url>`is the link to the forked repository
-- `cd frontend_ui`
+- `cd backend_services`
 
 Note : If you want to contribute, first fork the original repository and clone the forked repository into your local machine followed by `cd` into the directory
 
