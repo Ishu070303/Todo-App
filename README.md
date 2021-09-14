@@ -1,6 +1,6 @@
 # Todo-App
 
-> Make a list of things you want to do ... edit them by your choice you can delete them if you are done with your work, data still be there after you refresh you page 🥰. 
+> Make a list of things you want to do ... edit them by your choice you can delete them if you are done with your work, data still be there after you refresh your page 🥰. 
 
 ## Features
 </br>
@@ -8,7 +8,7 @@
 - [x] Welcome landing on main page TODO
 - [x] Write down your Todo's
 - [x] Delete the Todo's ❎
-- [x] Save Todo's in Database 
+- [x] Save the Todo's in Database 
 
 ## Demo version
 </br>
