@@ -37,6 +37,12 @@ Please get familiar with the components of the project in order to be able to co
 - node --version >= 6
 - npm --version >= 3
 
+## Screenshots of The Project
+</br>
+
+<img src="http://Invalid_email.jpg" 
+alt="Video Tutorial for Node.js-Expess-MongoDB-CRUD" width="500" height="400" border="10" />
+
 
 ## Local Installation for Backend
 </br>
